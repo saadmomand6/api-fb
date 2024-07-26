@@ -1,0 +1,9 @@
+Steps to Connect Firebase to flutter app
+
+firebase logout if already login
+firebase login
+flutter fire configure
+then select "create new firebase project"
+dart pub global activate flutterfire_cli
+flutterfire configure
+then select platforms by using space button
