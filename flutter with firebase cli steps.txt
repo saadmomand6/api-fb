@@ -1,9 +1,11 @@
-Steps to Connect Firebase to flutter app
+Steps to Connect Firebase to flutter app=>
 
+install firebase cli (you can do trough node also)
+then after node installation add pub/chache/bin and roamng/npm to path in environment varibles
+then open your project throug cmd and run "dart pub global activate flutterfire_cli" 
 firebase logout if already login
 firebase login
-flutter fire configure
-then select "create new firebase project"
-dart pub global activate flutterfire_cli
-flutterfire configure
-then select platforms by using space button
+after then run flutterfire configure
+then select project or create new
+then select platform
+then add package name what you want
